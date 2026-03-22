@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đan Trường</h1>
-<h3 align="center">A Software Engineering Student from Viet Nam</h3>
+<h3 align="center">A Software Engineering Student</h3>
 
 <br>
 
